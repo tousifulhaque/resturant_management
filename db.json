@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Syed Tousiful",
+      "lastName": "Haque"
+    },
+    {
+      "id": "2",
+      "firstName": "Syed Hafizul",
+      "lastName": "Haque"
+    },
+    {
+      "id": "3",
+      "firstName": "Syed Tangemul",
+      "lastName": "Haque"
+    },
+    {
+      "email": ";dlsfa",
+      "password": ";kl;sdf",
+      "name": "klsjdf",
+      "id": "0tUME7X"
+    },
+    {
+      "email": "dsfa",
+      "password": "dsaf",
+      "name": "sdfa",
+      "id": "xH3xaaH"
+    },
+    {
+      "email": "dsfs",
+      "password": "sdfs",
+      "name": "fsdf",
+      "id": "yvRyVhJ"
+    },
+    {
+      "email": "tousifulhaque@iut-dhaka.edu",
+      "password": "62@Tou89",
+      "name": "Tousif",
+      "id": "wOLMObN"
+    },
+    {
+      "email": "sdaf",
+      "password": "sdfggv",
+      "name": "sdfa",
+      "id": "JvvUFd9"
+    },
+    {
+      "email": "dsafg",
+      "password": "saeg",
+      "name": "sdf",
+      "id": "ujnQvJU"
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": "sPLw6JI"
+    },
+    {
+      "email": "testemail@test.com",
+      "password": "62@Tou89",
+      "name": "test",
+      "id": "On56w6C"
+    },
+    {
+      "email": "avenger@gmail.com",
+      "password": "avenge",
+      "name": "averger",
+      "id": "0yTSXHx"
+    },
+    {
+      "email": "test23@gmail.com",
+      "password": "test2334323",
+      "name": "test23",
+      "id": "ZTXrno3"
+    }
+  ],
+  "resturant": [
+    {
+      "id": 1,
+      "name": "Takeout",
+      "location": "Uttara",
+      "contact": 4444
+    },
+    {
+      "name": "KFC",
+      "location": "Uttara",
+      "contact": "03433",
+      "id": 5
+    },
+    {
+      "name": "KFC",
+      "location": "Gazipur",
+      "contact": "45533",
+      "id": 6
+    },
+    {
+      "name": "Takeout",
+      "location": "Dhanmondi",
+      "contact": 4444,
+      "id": 7
+    }
+  ]
+}
