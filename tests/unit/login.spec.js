@@ -1,13 +1,13 @@
 import { mount } from "@vue/test-utils";
 import Login from "@/components/Login.vue";
+import { QBtn } from "quasar";
 
-describe("Login.vue", () => {
-  it("Login Testing", async () => {
-    const wrapper = mount(Login);
-    const input = wrapper.find("input");
+test("Login Testing", async () => {
+  const wrapper = mount(Login, { global: { components: QBtn } });
+  await wrapper.find("button").trigger("click");
+  await wrapper.find("button").trigger("keydown");
 
-    await input.setValue("my@mail.com");
+  // await input.setValue("my@mail.com");
 
-    expect(input.element.value).toBe("my@mail.com");
-  });
+  // expect(input.element.value).toBe("my@mail.com");
 });
